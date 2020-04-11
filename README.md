@@ -1,5 +1,5 @@
 # This contains most of my CS317 (Artificial Intelligence) projects.
-Language: Python
+Language: Python 3
 
 ---------------------------Readme below from original repo--------------------------------
 
