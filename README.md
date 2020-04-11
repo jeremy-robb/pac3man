@@ -1,6 +1,6 @@
 This contains most of my cs317 (Artificial Intelligence) projects. All of them are coded in Python
 
------------------------------------------------Readme below from original repo------------------------------------------------------------
+---------------------------Readme below from original repo--------------------------------
 
 # Pac3man: Python3 port of Berkeley Pacman
 
