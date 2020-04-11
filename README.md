@@ -1,4 +1,5 @@
-This contains most of my cs317 (Artificial Intelligence) projects. All of them are coded in Python
+# This contains most of my CS317 (Artificial Intelligence) projects.
+Language: Python
 
 ---------------------------Readme below from original repo--------------------------------
 
